@@ -5,14 +5,13 @@ Presidential Innovation Fellows Foundation website
 
 - Jekyll
 - GitHub Pages
-- Compass
 - Zurb Foundation 5
 - SASS (SCSS)
 
 ### People
 
-Sarah Allen
-Danny Chapman
-Robert Reid
-Sokwoo Rhee
-Henry Wei
+- Sarah Allen
+- Danny Chapman
+- Robert Reid
+- Sokwoo Rhee
+- Henry Wei
