@@ -56,7 +56,13 @@ h2 {
   em {font-style: normal; font-weight: 500;  }
 }
 
-h3 {font-family: 'PT Serif', 'Georgia', 'Times New Roman' serif; font-size: em-calc(42); padding-bottom: .15em;}
+h3 {
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 1.3em;
+  margin: 0 0 2em 0;
+  letter-spacing: 0.09em;
+}
 
 .info-row {
   background: $pif-body-accent-color;
@@ -69,15 +75,17 @@ h3 {font-family: 'PT Serif', 'Georgia', 'Times New Roman' serif; font-size: em-c
   padding: 3em 0;
   border-bottom: 1px solid rgba(0,0,0,.2);
   p {color: $pif-primary-color;}
-  h3 {color: $pif-secondary-color;}
+  h3 {color: $pif-secondary-color; margin: 0 0 1em 0;}
 }
 
 .feature-row {
   background: $pif-primary-color;
   padding: 2em 0 2em 0;
   clear: both;
-  h3 {color: #fff;}
+  h3 {color: #fff; margin: 0;}
   h4, h5, h6, p, ol, li, dd, table, a {color: #fff; font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  p {padding: 0 0 2em 0;}
+
   }
 
 
@@ -90,29 +98,42 @@ h3 {font-family: 'PT Serif', 'Georgia', 'Times New Roman' serif; font-size: em-c
 
   h4 {font-size: em-calc(20);}
 
-  p {color: #fff; color: rgba(255,255,255,.75); font-size: em-calc(14); margin-bottom: .2em; padding-bottom: 0; font-weight: 300;}
+  p {color: #fff; color: rgba(255,255,255,.65); font-size: em-calc(14); margin-bottom: 2em; font-weight: 300;}
 
   ul {
     list-style: none;
     margin: 0 0 2em 0; padding: 0;
     font-size: em-calc(14);
-    li {list-style: none; display: inline-block; margin: 0; padding: 0 1em 0 0; }
-    a {border-bottom: 1px solid rgba(255,255,255,.5);}
+    li {list-style: none; display: block; margin: 0; padding: 0 1em 0 0; }
+    a {border-bottom: 1px solid rgba(255,255,255,.1); display: block; padding: .25em 0;}
   }
 
 }
 
+.panel {background: none; border: none; background: transparent;}
+
+p.source {
+  color: rgba(0,0,0,.5);
+  font-size: .9em;
+  margin: .5em 0;
+}
+
 .project-item {
   position: relative;
+  img {margin-bottom: 1.25em;}
   h4 {
     position: absolute;
     background: rgba($pif-primary-color,.8);
-    margin: 0 0 0 .0;
+    margin: 0 0 1em 0;
     font-size: em-calc(18);
     padding: 0 .2em;
-    bottom: 1em;
+    bottom: .65em;
   }
 
+}
+
+#our-work {
+  h3 {margin: 0;}
 }
 
 
@@ -132,7 +153,7 @@ h1 a {
   overflow: hidden;
   display: block;
   margin: 0 auto;
-  background: url(../img/design/logo.png) top left no-repeat;
+  background: url(../img/design/logo.png) top center no-repeat;
   width: 140px;
   height: 80px;
   background-size: contain;
@@ -153,13 +174,14 @@ only screen and (                min-resolution: 192dpi),
 only screen and (                min-resolution: 2dppx) {
 
   h1 a {
-   background: url(../img/design/logo-retina.png) top left no-repeat;
+   background: url(../img/design/logo-retina.png) top center no-repeat;
    width: 140px;
    height: 80px;
    background-size: contain;
    @media #{$small} {
      width: 250px;
      height: 100px;
+     margin: .5em auto;
      background-size: contain;
    }
   }
@@ -171,7 +193,7 @@ only screen and (                min-resolution: 2dppx) {
 nav {
   font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-weight: 300;
   ul {font-size: em-calc(15);  margin: 0; padding: 0; font-weight: 500; text-align: center; margin: 0 auto 1em auto;}
-  li {list-style: none; display: inline-block; line-height: 1.1em; width: 31%;
+  li {list-style: none; display: inline-block; line-height: 1.1em;
       em {display: block; font-style: normal; font-weight: 500;
           @media only screen and (min-width : 320px) and (max-width : 819px) {font-size: .9em;}
           }
@@ -179,15 +201,13 @@ nav {
   a {display: block; padding: .5em 5%; color: $pif-body-content-color; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-weight: 300;}
 
   @media #{$small} {
-    text-align: right;
-    float: right;
     padding: 1.2em 0 0 0; margin: 0;
     font-size: 1.1em;
 
     ul {font-size: em-calc(16);}
 
     li {
-      text-align: right;  margin: 0 0 0 2em; width: auto; em {display: inline; } &:last-child {border-left: none;}
+     margin: 0 0 0 2em; width: auto; em {display: inline; } &:last-child {border-left: none;}
       a {padding: 1.5em 0; color: $pif-body-content-color;  em {font-style: normal; opacity: 1;}}
       a:hover {color: $pif-primary-color;}
       &:last-child {border-right: none;}
@@ -201,7 +221,7 @@ nav {
 
 .banner {
   clear: both;
-  padding: 2.25em 0 8em 0;
+  padding: 2.5em 0 12em 0;
   border-top: 1px solid $pif-body-accent-color;
   @media #{$medium} {padding: 16em 0 1em 0;}
   @media #{$large} {padding: 22em 0 3em 0;}
@@ -216,9 +236,9 @@ nav {
     @media #{$small} {font-size: em-calc(48px);}
     @media #{$medium} {font-size: em-calc(68px);}
     @media #{$large} {font-size: em-calc(50px);}
-    span {background: rgba($pif-secondary-color, .9); color: #fff; display: inline-block; padding: 0 .15em;}
+    span {color: #fff; display: inline-block; padding: 0 .15em;}
   }
-  p {color: #fff; font-size: 1.3em;}
+  p {color: #fff; font-size: 1.3em; margin: 0;}
   a {color: $pif-secondary-color;
     &:hover, &:active, &:focus {color: $pif-primary-color;}
   }
@@ -254,9 +274,10 @@ nav {
 /*** Opening Pitch ***/
 
 .opening-pitch {
-  p {font-size: em-calc(18px); padding: 2.75em 0; color: $pif-body-content-color;}
-  @media #{$small} {p {font-size: em-calc(20px);}}
-  @media #{$medium} {p {font-size: em-calc(24px); padding: 2.25em 0;}}
+  padding: 4em 0;
+  blockquote {font-size: em-calc(18px);  color: $pif-body-content-color;}
+  @media #{$small} {blockquote {font-size: em-calc(28px);}}
+  @media #{$medium} {blockquote {font-size: em-calc(32px); padding: 2.25em 0;}}
 }
 
 
@@ -286,7 +307,7 @@ footer {
   .left {text-align: left;}
 
 
-  a {border-bottom: 1px solid rgba(0,0,0,.2);}
+  a {border-bottom: 1px solid rgba(0,0,0,.15);}
 
   p {
      margin-bottom: .5em;
