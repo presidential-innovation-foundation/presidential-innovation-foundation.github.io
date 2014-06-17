@@ -105,7 +105,7 @@ h3 {
     margin: 0 0 2em 0; padding: 0;
     font-size: em-calc(14);
     li {list-style: none; display: block; margin: 0; padding: 0 1em 0 0; }
-    a {border-bottom: 1px solid rgba(255,255,255,.1); display: block; padding: .25em 0;}
+    a {border-bottom: 1px solid rgba(255,255,255,.1); display: inline-block; padding: .25em 0;}
   }
 
 }
@@ -220,29 +220,39 @@ nav {
 /***  Banner ***/
 
 .banner {
-  clear: both;
-  padding: 2.5em 0 12em 0;
-  border-top: 1px solid $pif-body-accent-color;
-  @media #{$medium} {padding: 16em 0 1em 0;}
-  @media #{$large} {padding: 22em 0 3em 0;}
-  background: url(../img/design/banner.jpg) 50% 20% no-repeat fixed;
-  background-size: 100% auto;
+  margin-top: 1em;
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  padding: 2.5em 0 21em 0;
+  background: url(../img/design/banner.jpg) 50% 40% no-repeat;
+  background-size: cover;
   h2 {
     text-align: center;
-    font-size: em-calc(28px);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 2em 0 10em 0;
+    display: block;
+    font-size: em-calc(24px);
     em {display: block;}
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     padding: 0; line-height: 1em;
-    @media #{$small} {font-size: em-calc(48px);}
-    @media #{$medium} {font-size: em-calc(68px);}
-    @media #{$large} {font-size: em-calc(50px);}
-    span {color: #fff; display: inline-block; padding: 0 .15em;}
+    @media #{$small} {font-size: em-calc(30px);}
+    @media #{$medium} {font-size: em-calc(30px);}
+    @media #{$large} {font-size: em-calc(30px);}
+    span {color: #555; display: inline-block; padding: 0 .15em;}
   }
-  p {color: #fff; font-size: 1.3em; margin: 0;}
+  p {color: #555; font-size: 1.3em; margin: 0;}
   a {color: $pif-secondary-color;
     &:hover, &:active, &:focus {color: $pif-primary-color;}
   }
 }
+
+html.no-touch .banner {
+  background: url(../img/design/banner.jpg) 50% 60% no-repeat;
+  background-size: cover;
+}
+
+
 
 /*** Banner Animation ***/
 
@@ -275,7 +285,7 @@ nav {
 
 .opening-pitch {
   padding: 4em 0;
-  blockquote {font-size: em-calc(18px);  color: $pif-body-content-color;}
+  blockquote {font-size: em-calc(18px);  color: $pif-body-content-color; strong {display: inline-block; padding-left: .5em;} }
   @media #{$small} {blockquote {font-size: em-calc(28px);}}
   @media #{$medium} {blockquote {font-size: em-calc(32px); padding: 2.25em 0;}}
 }
