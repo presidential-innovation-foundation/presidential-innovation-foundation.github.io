@@ -25,7 +25,7 @@ bundle install
 - Sarah Allen
 - Danny Chapman
 - Jason Shen
-- Robert Reid
+- Robert Read
 - Sokwoo Rhee
 - Henry Wei
 
