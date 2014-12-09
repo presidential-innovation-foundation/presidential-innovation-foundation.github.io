@@ -1,10 +1,9 @@
 ---
 title: Bylaws
+layout: page
 ---
 
-
-
-# [Bylaws](PIFbylaws.pdf) 
+The bylaws may be found on the link below:
 
 [Bylaws](PIFbylaws.pdf) 
 
