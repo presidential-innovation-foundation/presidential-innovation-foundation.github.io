@@ -27,7 +27,7 @@ timezone: America/New_York
 encoding: UTF-8
 safe: true
 
-pygments: true
+highlighter: null
 markdown: kramdown
 timezone: America/New_York
 encoding: UTF-8
