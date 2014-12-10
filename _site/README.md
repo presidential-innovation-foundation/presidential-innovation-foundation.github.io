@@ -29,4 +29,3 @@ bundle install
 - Sokwoo Rhee
 - Henry Wei
 
-
