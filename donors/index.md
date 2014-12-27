@@ -23,7 +23,9 @@ Henry Wei
 ## Bronze Sponsors
 
 Tyrone Grandison, PhD
+
 Ian J. Kalin
+
 
 ---
 
