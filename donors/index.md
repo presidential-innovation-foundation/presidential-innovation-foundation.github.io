@@ -26,6 +26,10 @@ Tyrone Grandison, PhD
 
 Ian J. Kalin
 
+# 2015 Sponsors
+
+Arianne J. Gallagher
+
 
 ---
 
