@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 2014 Sponsors
+permalink: /donors/
 ---
 
 # 2014 Sponsors

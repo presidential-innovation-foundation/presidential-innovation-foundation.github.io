@@ -1,7 +1,7 @@
 name: Presidential Innovation Fellows Foundation
 
 #URL of site, include http://, do not include a trailing slash
-url: http://presidential-innovation-foundation.github.io
+url: http://presidentialinnovation.org
 
 #files to exclude, array
 exclude: [ 'readme.md', 'php' ]
@@ -37,3 +37,6 @@ sass:
   style: :compressed
   images_dir: 'img/content'
   javascripts_dir: 'assets/js'
+
+gems:
+  - jekyll-sitemap
