@@ -1,6 +1,7 @@
 ---
 layout: page
 title: How to Donate
+permalink: /donations/
 ---
 
 # How to Donate
