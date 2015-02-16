@@ -1,12 +1,13 @@
 ---
 layout: page
 title: How to Donate
+permalink: /donations/
 ---
 
 # How to Donate
 
-Gifts to the Presidential Innovation Fellows Foundation are tax-deductible. 
-The PIFF is a Washington, DC, corporation recognized as a 501c3 corporation 
+Gifts to the Presidential Innovation Fellows Foundation are tax-deductible.
+The PIFF is a Washington, DC, corporation recognized as a 501c3 corporation
 by the IRS. Our EIN is: 47-1770767.
 
 Donate online:
