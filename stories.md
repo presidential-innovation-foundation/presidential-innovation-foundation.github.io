@@ -22,7 +22,10 @@ Our four-person team was well-supported and well-directed by our sponsors, Laura
 
 Nothing goes as planned. We did not invent the “transformational pivot”, but we certainly practiced it.  It was not so much that the original intentions of our projects were wrong, as that we found even better ones. It was as if we had been asked to pick up a five-dollar bill on the ground, and as we bent over we saw a ten, and then a twenty.  The FBOpen and SAM Status Tracker were two such “found” solutions implemented or supported by our team that were outside the original mission.
 
-Kent Beck preaches: “Do the simplest thing that could possibly work.”  In the case of Prices Paid, this was straightforward: reuse existing free off-the-shelf search technology with a very simple ability to import comma-separated-value files.  Martin Ringlein designed a beautiful, simple GUI.  By staying simple, we had a demonstrable prototype done in 27 days.  Nothing focuses a conversation quite like a prototype.  The discussion became about how to get real users.
+Kent Beck preaches: “Do the simplest thing that could possibly work.”  In the case of Prices Paid, this was straightforward: reuse existing free off-the-shelf search technology with a very simple ability to import comma-separated-value files.  Martin Ringlein designed a beautiful, simple GUI---what we implemented never looked quite that good.  By staying simple, we had a demonstrable prototype done in 27 days.  Nothing focuses a conversation quite like a prototype.  The discussion became about how to get real users.
+
+![OriginalDesignForPP](https://cloud.githubusercontent.com/assets/5296671/6312285/5ca53b64-b941-11e4-9e20-037b02f0d802.png)
+
 
 It was then that we bogged down in cybersecurity issues.  My complete ignorance of government had been an assistance up to this point, but it then led me to make a classic mistake.  I tried to build my own authentication system, when I should have reused an existing, albeit complex and opaque, government system. (I eventually did later integrate with the existing system.) The result was a lengthy interruption.  In a six-month project, a month is a long time.
 
