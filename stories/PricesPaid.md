@@ -8,11 +8,9 @@ The letter that I had been selected as a Fellow seemed to open a door into a new
 Our four-person team was well-supported and well-directed by our sponsors, Laura Mann-Eyester of the SBA and Karen Pica of the OMB. Two-and-half of us worked on continuing RFP-EZ, and one-and-a-half of us worked on Prices Paid, but we conferred and cooperated constantly.
 
 <table class="image">
-<caption align="bottom">Martin Ringlein, Robert L. Read, Gregorgy Godbout and Aaron Snow</caption>
-<tr><td><img src="https://cloud.githubusercontent.com/assets/5296671/6311870/f979678a-b937-11e4-98c6-a90d487e2b20.png" alt="{{ ![Martin Ringlein, Robert L. Read, Gregorgy Godbout and Aaron Snow] }}"/></td></tr>
+<caption align="bottom">RFP-EZ II: Martin Ringlein, Robert L. Read, Gregorgy Godbout and Aaron Snow</caption>
+<tr><td><img src="https://cloud.githubusercontent.com/assets/5296671/6311870/f979678a-b937-11e4-98c6-a90d487e2b20.png" alt="RFP-EZ II: Martin Ringlein, Robert L. Read, Gregorgy Godbout and Aaron Snow"/></td></tr>
 </table>
-
-(
 
 Nothing goes as planned. We did not invent the “transformational pivot”, but we certainly practiced it.  It was not so much that the original intentions of our projects were wrong, as that we found even better ones. It was as if we had been asked to pick up a five-dollar bill on the ground, and as we bent over we saw a ten, and then a twenty.  The FBOpen and SAM Status Tracker were two such “found” solutions implemented or supported by our team that were outside the original mission.
 
