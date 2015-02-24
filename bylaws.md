@@ -2,6 +2,7 @@
 layout: page
 title: Bylaws of the Presidential Innovation Fellows Foundation
 permalink: /bylaws/
+redirect_from: "/bylaws/PIFFbylaws.pdf"
 ---
 
 # Bylaws of the Presidential Innovation Fellows Foundation

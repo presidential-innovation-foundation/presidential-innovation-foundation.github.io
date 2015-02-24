@@ -34,3 +34,4 @@ encoding: UTF-8
 
 gems:
   - jekyll-sitemap
+  - jekyll-redirect-from
