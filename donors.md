@@ -31,7 +31,6 @@ Ian J. Kalin
 
 Arianne J. Gallagher
 
-
 ---
 
 Sponsorhip levels:
