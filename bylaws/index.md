@@ -3,7 +3,7 @@ layout: page
 title: Bylaws
 ---
 
-# [Bylaws](bylaws/PIFbylaws.pdf) 
+# [Bylaws](PIFFbylaws.pdf) 
 
 
 <!-- hhmts start -->Last modified: Tue Nov 11 12:48:40 EST 2014 <!-- hhmts end -->
