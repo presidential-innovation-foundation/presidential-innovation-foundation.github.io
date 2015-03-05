@@ -1,0 +1,22 @@
+{% include header.html %}
+
+{{ page | jsonify }}
+
+<div id="content" class="{{ page.id }}">
+  <div class="row">
+    <div class="small-10 small-centered columns">
+
+      <h2>{{ page.title }}</h2>
+
+      <div class="meta">
+        Posted on {{ page.date }} by {{ page.author }}
+      </div>
+
+{{ content }}
+
+    </div>
+  </div>
+</div><!-- /content -->
+
+
+{% include footer.html %}
