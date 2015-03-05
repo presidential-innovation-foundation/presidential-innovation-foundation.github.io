@@ -326,3 +326,35 @@ footer {
     @media #{$large} {text-align: right;}
   }
 }
+
+/*** Bylaws ***/
+
+.bylaws {
+  /* Section numbering */
+  ol { counter-reset: item; }
+  li { display: block; position: relative; }
+  li:before {
+    font-weight: bold;
+    content: counters(item, ".")".";
+    counter-increment: item;
+    position: absolute;
+    margin-right: 100%;
+    left: -50px;
+  }
+
+  /* Section headings */
+  .columns > ol { margin-left: 0;  }
+  .columns > ol > li { margin-top: 20px; counter-increment: item; }
+  .columns > ol > li > p { font-size: 1.2em; font-weight: bold; }
+  .columns > ol > li:before { display: none; }
+
+  /* Sub sections */
+  ol li ol { margin-left: 50px; }
+
+  /* Sub-sub-sections */
+  ol li ol li ol li:before {
+    content: "(" counter(section, lower-alpha) ") ";
+    font-weight: normal;
+  }
+  ol li ol li ol li { counter-increment: section; }
+}
