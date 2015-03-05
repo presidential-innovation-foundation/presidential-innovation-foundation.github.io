@@ -24,7 +24,7 @@ id: bylaws
 
         3. To serve as an alumni association for PIF fellows, providing an avenue for PIF fellows and their networks to continue contributing to solving challenges of national concern.
 
-3. Article 3 – Membership
+3. Article 3 — Membership
 
     1. **Membership Eligibility.** Voting members shall be all Presidential Innovation Fellows who have successfully completed six (6) months or the substantial majority of the PIF program and who have accepted membership in the Corporation. The Board may by majority vote extend voting membership to those who share the mission and spirit of the Corporation.
 
@@ -44,7 +44,7 @@ id: bylaws
 
     4. **Resignation and Termination.** Any member may resign by filing a written resignation with the secretary. Any member's membership may be terminated by a majority vote of the membership.
 
-4. Article 4 – Member Meetings
+4. Article 4 — Member Meetings
 
     1. **Annual Meetings.** The members shall meet annually for the purpose of electing directors and the transaction of other business as they may lawfully consider. The time and place of the annual meeting of members shall be determined by the board of directors.
 
@@ -62,7 +62,7 @@ id: bylaws
 
     8. **Action without a Meeting.** The members may take action by ballot, without a meeting, provided the Corporation follows appropriate procedures for ballot vote as provided by governing law. Approval by ballot vote shall be valid only when the number of votes cast equals or exceeds the quorum required to be present at a meeting authorizing the action, and the number of approvals equals or exceeds the number of votes that would be required to approve the matter at a meeting authorizing the action.
 
-5. Article 5 – Board of Directors
+5. Article 5 — Board of Directors
 
     1. **Powers and Duties.** Except as otherwise provided in the articles of incorporation or these bylaws, the Board shall have the general power to control and manage the affairs and property of the Corporation and shall have full power to adopt rules and regulations governing the conduct of the Corporation's affairs and actions as well as those of the Board itself. The Board shall have full authority with respect to the governance and management of the Corporation; provided, however, that the Board shall be guided at all times by the fundamental and basic purposes of the Corporation as expressed in the certificate of incorporation, and shall not permit any part of the net earnings or capital of the Corporation to inure to the benefit of any private individual except as permitted under the Internal Revenue Code of 1986, as amended, and applicable state law.
 
@@ -102,7 +102,7 @@ id: bylaws
 
     13. **Resignation; Removal.** Any director may resign at any time by giving written notice to the President or the Secretary. Such resignation shall take effect at the time specified therein or, if no time be specified, then on delivery. Any member of the Board or members of the Advisory Council described in Article 7, may be removed, with or without cause, at any time, by an affirmative vote of a simple majority of the Members or three-quarters (3/4) of the members of the entire Board at a duly held meeting at which quorum is present, provided that each person entitled to vote must receive notice of the proposed removal at least ten (10) days in advance of the proposed action. An officer who has been removed as a member of the Board shall automatically be removed from office.
 
-6. Article 6 – Officers
+6. Article 6 — Officers
 
     1. **Officers.** The officers of the Corporation shall include a president, a vice-president, a secretary and a treasurer. The Board may also elect or appoint one or more additional vice-presidents, one or more assistant secretaries and assistant treasurers and such other officers and agents as it shall from time to time deem advisable. No officer need be a member of the Board and any two or more offices may be held by the same person, except the offices of president and secretary.
 
@@ -140,7 +140,7 @@ id: bylaws
 
     1. **General.** The Board shall adopt a conflict of interest policy, which shall define the circumstances that constitute a conflict of interest, as well as appropriate procedures for disclosure. The Board shall evaluate potential conflicts of interest in accordance with the conflict of interest policy.
 
-9. Article 9 – Indemnification
+9. Article 9 — Indemnification
 
     1. **Mandatory Indemnification.** Unless clearly prohibited by law or Section 3 of this Article, the Corporation shall indemnify any person ("Indemnified Person") made, or threatened to be made, a party in any action or proceeding, whether civil, criminal, administrative, investigative or otherwise, including any action by or in the right of the Corporation, by reason of the fact that he or she (or his or her testator or intestate), whether before or after adoption of this Section, (a) is or was a director or officer of the Corporation, or (b) in addition is serving or served, in any capacity, at the request of the Corporation, as a director or officer of any other corporation, or any partnership, joint venture, trust, employee benefit plan or other enterprise. The indemnification shall be against all judgments, fines, penalties, amounts paid in settlement (provided the Corporation shall have consented to such settlement) and reasonable expenses, including attorneys' fees and costs of investigation, incurred by an Indemnified Person with respect to any such threatened or actual action or proceeding, and any appeal thereof.
 
@@ -166,7 +166,7 @@ id: bylaws
 
     5. **Investments.** The funds of the Corporation may be retained in whole or in part in cash, or may be invested and reinvested from time to time in such property, real, personal or otherwise, including stocks, bonds or other securities as the Board shall determine, in accordance with a board-approved investment policy.
 
-11. Article 11 – General
+11. Article 11 — General
 
     1. **Fiscal Year.** The fiscal year of the Corporation shall be fixed by, and may from time to time be changed by, resolution of the Board.
 
