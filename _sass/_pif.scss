@@ -358,3 +358,10 @@ footer {
   }
   ol li ol li ol li { counter-increment: section; }
 }
+
+/*** Board ***/
+.board .members { margin-top: 25px; }
+.board .members img { width: 100px; float: left; }
+.board .member { margin-bottom: 25px; }
+.board .member .about { float: left; margin-left: 10px; font-size: 1.2em; }
+.board .member .about small { display: block; line-height: 1em; }
