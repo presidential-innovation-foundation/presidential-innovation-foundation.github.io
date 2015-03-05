@@ -14,7 +14,7 @@ exclude:
 
 #posts per page
 paginate: 5
-#paginate_path: "/updates/page:num/"
+paginate_path: "/updates/page:num/"
 
 #number of items in RSS feed
 rss_limit: 20
