@@ -358,3 +358,8 @@ footer {
   }
   ol li ol li ol li { counter-increment: section; }
 }
+
+/*** posts ***/
+.meta { font-style: italic; font-size: 0.9em; }
+.post h3, .post h2 { margin-bottom: 10px; }
+.post { border-bottom: 1px solid #ccc; margin-bottom: 10px; }

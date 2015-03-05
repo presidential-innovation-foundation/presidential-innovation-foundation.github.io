@@ -1,16 +1,14 @@
 {% include header.html %}
 
-{{ page | jsonify }}
-
-<div id="content" class="{{ page.id }}">
+<div id="content" class="{{ page.id }} post">
   <div class="row">
     <div class="small-10 small-centered columns">
 
       <h2>{{ page.title }}</h2>
 
-      <div class="meta">
-        Posted on {{ page.date }} by {{ page.author }}
-      </div>
+      <p class="meta">
+        Posted on {{ page.date | date: '%B %d, %Y' }} by {{ page.author }}
+      </p>
 
 {{ content }}
 
