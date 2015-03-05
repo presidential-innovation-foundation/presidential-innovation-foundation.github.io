@@ -8,11 +8,11 @@ id: bylaws
 
 # Bylaws of the Presidential Innovation Fellows Foundation
 
-1. Article 1 - Name
+1. Article 1 — Name
 
     1. **Name.** The name of the corporation shall be Presidential Innovation Fellows Foundation (the "Corporation").
 
-2. Article 2 - Purpose
+2. Article 2 — Purpose
 
     1. **Mission Statement.** The Corporation exists to serve as an alumni group for all former Presidential Innovation Fellows (PIF) and to serve as the fiduciary agent for nongovernmental contributions for the support of the PIF program.
 
@@ -120,7 +120,7 @@ id: bylaws
 
     8. **The Secretary.** The secretary shall attend all meetings of the members and Board and shall record or cause to be recorded the minutes of all proceedings taken at such meetings, and maintain or cause to be maintained all documents evidencing corporate actions taken by written consent of the Board, in a book to be kept for that purpose; and he or she shall perform like duties for any committees of the Board when required. He or she shall see to it that all notices of meetings of the members and the Board are duly given in accordance with these bylaws or as required by statute; he or she shall be the custodian of the seal of the Corporation, and, when authorized by the Board, shall cause the Corporation seal to be affixed to any document requiring it, and, when so affixed, attested by his or her signature as secretary or by the signature of an assistant secretary; and he or she shall perform such other duties as generally are incident to the office of secretary and as from time to time may be prescribed by the Board or by the members.
 
-7. Article 7 - Committees
+7. Article 7 — Committees
 
     1. **General.** The Board shall have the power to create standing committees or advisory boards, each of which shall have such authority as the Board shall by resolution provide, except that no committee shall have authority as to the following matters:
 
@@ -136,7 +136,7 @@ id: bylaws
 
     3. **Advisory Council.** Pursuant to Article 7.1, the Board may annually create and elect the members of an Advisory Council. Advisory Council members shall have no duties, voting privileges, or obligations to attend regular or special meetings of the Board. Advisory Council members may attend any meeting of the Board at the invitation of a member of the Board. Advisory Council members shall possess the desire to serve the community and support the work of the Corporation by providing expertise and professional knowledge. Advisory Council members shall comply with the confidentiality policy of the Corporation and other policies and requirements as the Board may deem advisable, including signing a confidentiality agreement upon being voted onto and accepting appointment to the Advisory Council.
 
-8. Article 8 - Conflict of Interest
+8. Article 8 — Conflict of Interest
 
     1. **General.** The Board shall adopt a conflict of interest policy, which shall define the circumstances that constitute a conflict of interest, as well as appropriate procedures for disclosure. The Board shall evaluate potential conflicts of interest in accordance with the conflict of interest policy.
 
@@ -154,7 +154,7 @@ id: bylaws
 
     6. **Nonexclusive Rights.** The provisions of this Article shall not limit or exclude any other rights to which any person may be entitled under law or contract. The Board of Directors is authorized to enter into agreements on behalf of the Corporation with any director, officer, employee or volunteer providing such person rights to indemnification or advancement of expenses in connection with potential indemnification in addition to the provisions therefore in this Article, subject in all cases to the limitations of Section 3 of this Article.
 
-10. Article 10 - Contracts, Checks, Drafts and Bank Acconts
+10. Article 10 — Contracts, Checks, Drafts and Bank Acconts
 
     1. **Execution of Contracts.** The Board may by resolution authorize any officer or agent to enter into any contract or execute and deliver any instrument in the name of and on behalf of the Corporation, and may impose such restrictions or limitations on the authority as it may in its sole discretion determine are necessary or prudent.
 
@@ -178,7 +178,7 @@ id: bylaws
 
     5. **Compensation.** It is the policy of the Corporation to pay no more than reasonable compensation for services rendered to the Corporation. The Board shall have sole authority to determine the reasonableness of compensation paid by the Corporation to any party.
 
-12. Article 12 - Amendments
+12. Article 12 — Amendments
 
     1. **Amendment of the Bylaws.** Amendments to these Bylaws may be made by a majority vote of the Board at any duly held meeting of the Board at which quorum is present, provided that notice of the meeting discloses the amendment of the bylaws to be considered at the meeting, and a written summary of the proposed amendment(s) is included with the notice of meeting. The members shall not be required to approve any amendment of the Bylaws so authorized by the Board, nor permitted to independently amend the Bylaws, unless otherwise required by law.
 
