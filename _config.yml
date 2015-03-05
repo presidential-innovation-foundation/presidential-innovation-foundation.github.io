@@ -32,5 +32,11 @@ markdown: kramdown
 timezone: America/New_York
 encoding: UTF-8
 
+sass:
+  sass_dir: _sass
+  style: :compressed
+  images_dir: 'img/content'
+  javascripts_dir: 'assets/js'
+
 gems:
   - jekyll-sitemap
