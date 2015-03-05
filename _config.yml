@@ -4,7 +4,13 @@ name: Presidential Innovation Fellows Foundation
 url: http://presidentialinnovation.org
 
 #files to exclude, array
-exclude: [ 'readme.md', 'php' ]
+exclude:
+  - README.md
+  - Rakefile
+  - "/vendor/bundle"
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
 
 #posts per page
 paginate: 1
@@ -27,10 +33,15 @@ timezone: America/New_York
 encoding: UTF-8
 safe: true
 
-highlighter: null
 markdown: kramdown
 timezone: America/New_York
 encoding: UTF-8
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+  images_dir: 'img/content'
+  javascripts_dir: 'assets/js'
 
 gems:
   - jekyll-sitemap
