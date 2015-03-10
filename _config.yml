@@ -13,13 +13,14 @@ exclude:
   - CNAME
 
 #posts per page
-paginate: 1
+paginate: 5
+paginate_path: "/updates/page:num/"
 
 #number of items in RSS feed
 rss_limit: 20
 
 #permalink structure, see https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:year/:month/:day/:title/
+permalink: /updates/:year/:month/:day/:title/
 
 #whether production or dev, minifies JS, bool
 production: true
@@ -36,6 +37,15 @@ safe: true
 markdown: kramdown
 timezone: America/New_York
 encoding: UTF-8
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
 
 sass:
   sass_dir: _sass
