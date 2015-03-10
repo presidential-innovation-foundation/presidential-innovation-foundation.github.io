@@ -4,6 +4,14 @@ title: 2014 Sponsors
 permalink: /donors/
 ---
 
+# 2015 Sponsors
+
+## Bronze Sponsors
+
+Arianne J. Gallagher
+
+---
+
 # 2014 Sponsors
 
 ## Platinum Sponsors
@@ -26,10 +34,6 @@ Henry Wei
 Tyrone Grandison, PhD
 
 Ian J. Kalin
-
-# 2015 Sponsors
-
-Arianne J. Gallagher
 
 ---
 
