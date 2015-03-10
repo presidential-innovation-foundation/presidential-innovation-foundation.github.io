@@ -6,8 +6,6 @@ redirect_from: "/bylaws/PIFFbylaws.pdf"
 id: bylaws
 ---
 
-# Bylaws of the Presidential Innovation Fellows Foundation
-
 1. Article 1 — Name
 
     1. **Name.** The name of the corporation shall be Presidential Innovation Fellows Foundation (the "Corporation").

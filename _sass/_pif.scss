@@ -359,7 +359,14 @@ footer {
   ol li ol li ol li { counter-increment: section; }
 }
 
+
 /*** posts ***/
 .meta { font-style: italic; font-size: 0.9em; }
 .post h3, .post h2 { margin-bottom: 10px; }
 .post { border-bottom: 1px solid #ccc; margin-bottom: 10px; }
+/*** board ***/
+.board .members { margin-top: 25px; }
+.board .members img { width: 100px; float: left; }
+.board .member { margin-bottom: 25px; }
+.board .member .about { float: left; margin-left: 10px; font-size: 1.2em; }
+.board .member .about small { display: block; line-height: 1em; }
