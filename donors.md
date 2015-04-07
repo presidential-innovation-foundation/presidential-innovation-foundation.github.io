@@ -6,9 +6,26 @@ permalink: /donors/
 
 # 2015 Sponsors
 
+## Silver Sponsors
+
+Robert D. and Renie Hartlie Charitable Foundation
+
+Phillip Ashlock
+
 ## Bronze Sponsors
 
 Arianne J. Gallagher
+
+Kara DeFrias
+
+Jacqueline Kazil
+
+Bright Funds Organization
+
+Robert Baker
+
+Dmitry Kachaev
+
 
 ---
 
