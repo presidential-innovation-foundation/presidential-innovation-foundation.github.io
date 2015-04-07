@@ -35,10 +35,9 @@ Dmitry Kachaev
 
 The Krisitn and Michael Reed Family Foundation
 
-## Gold Sponsors
-
-
 Robert L. Read
+
+## Gold Sponsors
 
 Adam Riggs
 
