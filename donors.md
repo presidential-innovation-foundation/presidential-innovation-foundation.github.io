@@ -20,7 +20,9 @@ Kara DeFrias
 
 Jacqueline Kazil
 
-Bright Funds Organization
+Ben Balter
+
+GitHub Inc. (as a matching contribution)
 
 Robert Baker
 
@@ -29,6 +31,8 @@ Dmitry Kachaev
 Jason Shen
 
 Charles Worthington
+
+Sarah Allen
 
 
 ---
