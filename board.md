@@ -16,3 +16,5 @@ id: board
 </li>
 {% endfor %}
 </ul>
+
+Looking to get in touch? We'd love to hear from you. Email us at <hello@presidentialinnovation.org>.
