@@ -22,7 +22,14 @@ Some personal stories of the Fellows' experiences:
 
 [https://medium.com/presidential-innovation-fellows/the-prices-paid-project-a-presidential-innovation-fellowship-ea7b55a7ed75](https://medium.com/presidential-innovation-fellows/the-prices-paid-project-a-presidential-innovation-fellowship-ea7b55a7ed75)
 
+
 --by Robert L. Read
+
+## [When Did You Do Your Tour of Duty?](http://www.jasonshen.com/2015/when-did-you-do-your-tour-of-duty/)
+
+[http://www.jasonshen.com/2015/when-did-you-do-your-tour-of-duty/](http://www.jasonshen.com/2015/when-did-you-do-your-tour-of-duty/)
+
+--by Jason Shen
 
 
 <!-- hhmts start -->Last modified: Tue Nov 11 12:48:40 EST 2014 <!-- hhmts end -->
