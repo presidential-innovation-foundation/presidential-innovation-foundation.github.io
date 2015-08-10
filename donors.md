@@ -6,6 +6,12 @@ permalink: /donors/
 
 # 2015 Sponsors
 
+## Gold Sponosrs
+
+Karl Metah (pledged)
+
+Todd Park (pledged)
+
 ## Silver Sponsors
 
 Robert D. and Renie Hartlie Charitable Foundation
@@ -33,6 +39,20 @@ Jason Shen
 Charles Worthington
 
 Sarah Allen
+
+Joe Polastre
+
+Nayan Jain
+
+Maia Hansen
+
+Aaron Snow
+
+Ross Dakin
+
+Scott Wu
+
+Matt Theall
 
 
 ---
