@@ -4,6 +4,10 @@ title: Alumni Groups And Lists
 permalink: /groupsandlists/
 ---
 
+## Twitter
+
+**@InnovFellows**
+
 ## Facebook Channel
 
 This is an invitation-only facebook group:
