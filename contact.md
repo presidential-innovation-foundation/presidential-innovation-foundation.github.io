@@ -5,17 +5,19 @@ permalink: /contact/
 
 ### Contact the board
 
-<ul class="members small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-{% for member in site.data.board %}
-<li class="member">
-  <img src="https://github.com/{{ member.github }}.png" alt="{{ member.name }}">
-  <div class="about">
-    {{ member.name }}<br />
-    <small>{{ member.title }}</small>
-  </div>
-</li>
-{% endfor %}
-</ul>
+<div class="board">
+  <ul class="members small-block-grid-1 medium-block-grid-2 large-block-grid-3">
+  {% for member in site.data.board %}
+  <li class="member">
+    <img src="https://github.com/{{ member.github }}.png" alt="{{ member.name }}">
+    <div class="about">
+      {{ member.name }}<br />
+      <small>{{ member.title }}</small>
+    </div>
+  </li>
+  {% endfor %}
+  </ul>
+</div>
 
 Looking to get in touch? We'd love to hear from you. Email us at <hello@presidentialinnovation.org>. For inquiries about donations or to request financial assistance for a project email <pifftreas@gmail.com>.
 
