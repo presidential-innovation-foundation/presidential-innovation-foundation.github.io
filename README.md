@@ -8,8 +8,8 @@ The website is a static site built using [Jekyll](http://jekyllrb.com) and serve
 
 1. `git clone https://github.com/presidential-innovation-foundation/presidential-innovation-foundation.github.io`
 2. `cd presidential-innovation-foundation.github.io`
-3. `bundle install`
-4. `bundle exec jekyll serve`
+3. `script/bootstrap`
+4. `script/server`
 5. Open [`localhost:4000`](http://localhost:4000) in your browser
 
 ## Contributing
@@ -18,6 +18,10 @@ The website is a static site built using [Jekyll](http://jekyllrb.com) and serve
 2. Create a new, descriptively named branch
 3. Make your change
 4. Submit [a pull request](https://guides.github.com/introduction/flow/)
+
+## Testing
+
+`script/cibuild`
 
 ## Contributors
 
