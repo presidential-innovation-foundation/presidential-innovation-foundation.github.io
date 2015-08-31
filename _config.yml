@@ -45,7 +45,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-
+    scope:
+      path: ""
+      type: "page"
+    values:
+      layout: "page"
 
 sass:
   sass_dir: _sass
