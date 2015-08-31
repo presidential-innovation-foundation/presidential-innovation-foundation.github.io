@@ -1,4 +1,4 @@
-script: "bundle exec rake test"
+script: "script/cibuild"
 
 language: ruby
 
