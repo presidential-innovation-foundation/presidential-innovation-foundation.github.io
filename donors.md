@@ -8,9 +8,9 @@ permalink: /donors/
 
 ## Gold Sponosrs
 
-Karl Metah (pledged)
+Karl Metah
 
-Todd Park (pledged)
+Todd Park
 
 ## Silver Sponsors
 
