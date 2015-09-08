@@ -220,12 +220,29 @@ nav {
 /***  Banner ***/
 
 .banner {
+  position: relative;
   margin-top: 1em;
-  border-top: 1px solid #fff;
-  border-bottom: 1px solid #fff;
-  padding: 2.5em 0 21em 0;
-  background: url(../img/design/banner.jpg) 50% 40% no-repeat;
+  padding: 0;
+  background: url(../img/design/banner.jpg) top center no-repeat;
   background-size: cover;
+  padding: 0 0 30% 0;
+
+
+  @media #{$small} {padding: 0 0 20% 0; background: none;}
+  @media #{$medium} {padding: 0 0 23% 0; background: none;}
+
+
+
+  .background-group {
+    z-index: 200;
+    display: none;
+    @media #{$small} {display: block;}
+  }
+
+  .content-group {
+    z-index: 500;
+  }
+
   h2 {
     text-align: center;
     text-transform: uppercase;
@@ -246,13 +263,6 @@ nav {
     &:hover, &:active, &:focus {color: $pif-primary-color;}
   }
 }
-
-html.no-touch .banner {
-  background: url(../img/design/banner.jpg) 50% 60% no-repeat;
-  background-size: cover;
-}
-
-
 
 /*** Banner Animation ***/
 
@@ -284,7 +294,8 @@ html.no-touch .banner {
 /*** Opening Pitch ***/
 
 .opening-pitch {
-  padding: 4em 0;
+  padding: 2em 0 1em 0;
+  @media #{$small} {padding: 4em 0;}
   blockquote {font-size: em-calc(18px);  color: $pif-body-content-color; strong {display: inline-block; padding-left: .5em;} }
   @media #{$small} {blockquote {font-size: em-calc(28px);}}
   @media #{$medium} {blockquote {font-size: em-calc(32px); padding: 2.25em 0;}}
