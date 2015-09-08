@@ -24,8 +24,24 @@
 
 <script src="/assets/js/vendor/modernizr.custom.js"></script>
 <script src="/assets/js/vendor/jquery-1.11.0.min.js"></script>
-<script src="/assets/js/vendor/jquery.smooth-scroll.js"></script>
-<script src="/assets/js/vendor/scroll-settings.js"></script>
+
+<script type="text/javascript" src="{{ site.url }}/assets/js/vendor//jquery.innerfade.js"></script>
+
+<script type="text/javascript">
+$(document).ready(
+function(){
+
+$('#feature').innerfade({
+speed: 'slow',
+timeout: 6000,
+type: 'sequence',
+containerheight: '220px'
+});
+
+}
+);
+</script>
+
 
 <meta name="google-site-verification" content="_bqTbNsWZlhft-Fq1zr2Grau1oHzJwIhH4tW3Rjokuw" />
 
