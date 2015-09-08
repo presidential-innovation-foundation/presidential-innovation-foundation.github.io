@@ -1,8 +1,8 @@
 name: Presidential Innovation Fellows Foundation
 
 #URL of site, include http://, do not include a trailing slash
-#url: http://presidentialinnovation.org
-url: http://localhost:4000
+url: http://presidentialinnovation.org
+# url: http://localhost:4000
 
 #files to exclude, array
 exclude:
