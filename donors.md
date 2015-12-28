@@ -8,13 +8,13 @@ permalink: /donors/
 
 ## Gold Sponosrs
 
-Karl Metah
+Karl Mehta
 
 Todd Park
 
-## Silver Sponsors
-
 Robert D. and Renie Hartlie Charitable Foundation
+
+## Silver Sponsors
 
 Phillip Ashlock
 
