@@ -8,7 +8,7 @@ id: board
 <ul class="members small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 {% for member in site.data.board %}
 <li class="member">
-  <img src="https://github.com/{{ member.github }}.png" alt="{{ member.name }}">
+  <img src="/assets/img/photos/{{ member.photo }}.png" alt="{{ member.name }}">
   <div class="about">
     {{ member.name }}<br />
     <small>{{ member.title }}</small>

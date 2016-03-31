@@ -1,19 +1,24 @@
 - title: President
-  name: Sarah Allen
-  github: ultrasaurus
+  name: Jackie Kazil
+  github: jackiekazil
+  photo: jackie-kazil-pif
 
 - title: Vice President
-  name: James Sanders
-  github: jamestsanders
+  name: Vidya Spandana
+  github: vidyaSpandana
+  photo: vidya-spandana-pif
 
 - title: Secretary
-  name: Ben Balter
-  github: benbalter
+  name: Adam Dole
+  github: adamdole
+  photo: adam-dole-pif
 
 - title: Treasurer
-  name: Rob Read
-  github: robertlread
+  name: Robert L. Read, PhD
+  github: RobertLRead
+  photo: robert-read-pif
 
 - title: Member-at-Large
   name: Ian Kalin
   github: ianjkalin
+  photo: ian-kalin-pif
