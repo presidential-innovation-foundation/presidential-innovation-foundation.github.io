@@ -4722,7 +4722,7 @@ function showDetail(fellow) {
     <a href="#" class="back-link" onclick="hideDetail(); return false;">← Back to Directory</a>
     
     <div class="detail-header">
-      <img class="detail-avatar" src="assets/img/avatars/${fellow.avatar || 'placeholder.png'}" alt="${escapeHtml(fellow.name)}" 
+      <img class="detail-avatar" src="{{ site.url }}/assets/img/avatars/${fellow.avatar || 'placeholder.png'}" alt="${escapeHtml(fellow.name)}" 
            onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=150 height=150><rect fill=%23ddd width=100% height=100%/></svg>'">
       <div class="detail-info">
         <h1 class="detail-name">${escapeHtml(fellow.name)}</h1>
@@ -4768,7 +4768,7 @@ function renderGrid(rows){
     
     const img = document.createElement('img');
     img.className='avatar';
-    img.src = 'assets/img/avatars/' + (r.avatar || 'placeholder.png');
+    img.src = '{{ site.url }}/assets/img/avatars/' + (r.avatar || 'placeholder.png');
     img.onerror = ()=>{img.src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width=72 height=72><rect fill=%23ddd width=100% height=100%/></svg>';};
     
     const inner = document.createElement('div');
